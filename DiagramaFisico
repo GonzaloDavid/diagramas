@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T04:58:39.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="kd8r1hBl45b4mO6WCYYk" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T05:12:41.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="zrlmXVGq11bNJnrHXlsS" version="24.3.1" type="github">
   <diagram name="Página-1" id="lJQ922JtFGng11zMOzEy">
     <mxGraphModel dx="2814" dy="1486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="7_GXkTfSGGwPGiOX81Ca-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/1200px-JBoss_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="-505" y="308" width="197.71" height="115.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7_GXkTfSGGwPGiOX81Ca-43" value="Linked Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-706" y="452" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
