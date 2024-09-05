@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-09-05T01:11:54.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" etag="w1Xy8sR57oLwoLCbUN5t" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-05T01:13:40.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" etag="FSUaDKAqhFCx8ya06q1S" version="24.3.1" type="github">
   <diagram name="Página-1" id="LumEGuKf30TYFGwRIGLJ">
     <mxGraphModel dx="3614" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aKGscz6chrpgSUisIPyE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1583" y="109" width="1308" height="772" as="geometry" />
+          <mxGeometry x="-1583" y="109" width="1750" height="772" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aKGscz6chrpgSUisIPyE-4" target="aKGscz6chrpgSUisIPyE-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aKGscz6chrpgSUisIPyE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1478" y="303" width="400" height="368" as="geometry" />
@@ -15,6 +18,15 @@
         </mxCell>
         <mxCell id="aKGscz6chrpgSUisIPyE-6" value="FRONTEND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1365" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-867" y="303" width="420" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.startechup.com/wp-content/uploads/Nodejs-versus-Expressjs-Which-one-should-a-web-app-development-company-use.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="358" width="245.99" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-10" value="Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="252" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
