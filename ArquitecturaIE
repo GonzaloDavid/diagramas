@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-05T01:17:47.481Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" etag="Tyi5OCj_CDMTda96gPAp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-05T01:27:37.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" etag="aZ-xLieCRr6BCjEoHQVV" version="24.3.1" type="github">
   <diagram name="Página-1" id="LumEGuKf30TYFGwRIGLJ">
     <mxGraphModel dx="3614" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="aKGscz6chrpgSUisIPyE-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://leninmhs.com/wp-content/uploads/2013/08/redis-logo-base-de-datos-instalar-debian.png;" vertex="1" parent="1">
           <mxGeometry x="-152" y="502" width="142.15" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.01;exitY=0.786;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aKGscz6chrpgSUisIPyE-8" target="aKGscz6chrpgSUisIPyE-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-438" y="607" as="sourcePoint" />
+            <mxPoint x="-388" y="557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-23" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-376" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKGscz6chrpgSUisIPyE-24" value="Startup: Carga de poarametrizaciones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-817" y="695" width="347" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
