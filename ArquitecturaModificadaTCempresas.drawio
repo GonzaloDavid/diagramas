@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="meYCgCRSEo67cjXvRKSK">
-    <mxGraphModel dx="2391" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="uFv2Ksm_HB0WcEMQn49q-46" value="Azure - Latinus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="942.96" width="172.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uFv2Ksm_HB0WcEMQn49q-47" value="Proceso de validación con Registro Civil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="uFv2Ksm_HB0WcEMQn49q-47" value="Proceso de validación con SRI /Super de compañias" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="354.81000000000006" y="1066.96" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFv2Ksm_HB0WcEMQn49q-48" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;rounded=0;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;" vertex="1" parent="1">
@@ -151,10 +151,10 @@
         <mxCell id="uFv2Ksm_HB0WcEMQn49q-50" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network_Classic.svg;" vertex="1" parent="1">
           <mxGeometry x="542.76" y="963.1600000000001" width="39.65" height="22.2" as="geometry" />
         </mxCell>
-        <mxCell id="uFv2Ksm_HB0WcEMQn49q-51" value="Registro Civil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="uFv2Ksm_HB0WcEMQn49q-51" value="Super compañias / SRI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="332.4" y="1207.96" width="172.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uFv2Ksm_HB0WcEMQn49q-52" value="Datos Registro Civil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="uFv2Ksm_HB0WcEMQn49q-52" value="Validez proceso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="365.0400000000001" y="1315.46" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFv2Ksm_HB0WcEMQn49q-53" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;glass=0;fillStyle=auto;" vertex="1" parent="1">
