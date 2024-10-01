@@ -88,6 +88,12 @@
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-28" value="Ingreso de GIBS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-19">
           <mxGeometry x="-100" y="130" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-72" value="Continuar Propuesta" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="280" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="10" height="380" as="geometry" />
         </mxCell>
@@ -107,7 +113,7 @@
           <mxGeometry x="360" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="120" width="120" height="540" as="geometry" />
+          <mxGeometry x="680" y="130" width="120" height="540" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-32" value="Onbase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
           <mxGeometry x="3" width="120" height="60" as="geometry" />
@@ -121,6 +127,16 @@
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
           <mxGeometry x="55" y="110" width="10" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-31" source="YaiJavYs_ZO8TBzmR0Fi-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-59" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YaiJavYs_ZO8TBzmR0Fi-58">
+          <mxGeometry x="0.1998" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-53" value="RIB Activo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
           <mxGeometry x="13" y="120" width="100" height="100" as="geometry" />
         </mxCell>
@@ -128,6 +144,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="290" as="sourcePoint" />
             <mxPoint x="690" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-66" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1.5;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.2;exitY=0.274;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YaiJavYs_ZO8TBzmR0Fi-34" target="YaiJavYs_ZO8TBzmR0Fi-21">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="745" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-67" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YaiJavYs_ZO8TBzmR0Fi-66">
+          <mxGeometry x="0.0791" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
