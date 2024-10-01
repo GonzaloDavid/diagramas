@@ -121,7 +121,7 @@
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
           <mxGeometry x="55" y="110" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-53" value="RIB Activo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-53" value="RIB Activo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-31">
           <mxGeometry x="13" y="120" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
