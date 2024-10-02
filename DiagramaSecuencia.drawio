@@ -40,7 +40,7 @@
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-17" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1040" y="130" width="120" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-7" value="Onboarding RIB" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-17" vertex="1">
+        <mxCell id="YaiJavYs_ZO8TBzmR0Fi-7" value="Onboarding RIB: PN / PJ" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-17" vertex="1">
           <mxGeometry y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="YaiJavYs_ZO8TBzmR0Fi-17" edge="1">
@@ -183,6 +183,15 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-15" value="Cliente final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-11">
           <mxGeometry x="45" y="-20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="6GTGhAp1K_8xXgokYNfH-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="sourcePoint" />
+            <mxPoint x="230" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-18" value="Abre Nueva plataforma desde Link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="405" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
