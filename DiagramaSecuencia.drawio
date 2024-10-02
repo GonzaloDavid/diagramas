@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1230" y="120" width="120" height="840" as="geometry" />
+          <mxGeometry x="1230" y="120" width="120" height="930" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-8" value="RIB Resful" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-13" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-13" vertex="1">
-          <mxGeometry x="50" y="110" width="10" height="730" as="geometry" />
+          <mxGeometry x="50" y="110" width="10" height="820" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1440" y="120" width="120" height="840" as="geometry" />
+          <mxGeometry x="1440" y="120" width="120" height="930" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-9" value="SQL SERVER" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-16" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-16" vertex="1">
-          <mxGeometry x="55" y="110" width="10" height="730" as="geometry" />
+          <mxGeometry x="55" y="110" width="10" height="820" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-17" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1040" y="130" width="120" height="650" as="geometry" />
@@ -238,7 +238,7 @@
           <mxGeometry x="1330" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1630" y="120" width="120" height="840" as="geometry" />
+          <mxGeometry x="1630" y="120" width="120" height="930" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-28" value="Calificación de cartera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-27">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -250,9 +250,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-27">
-          <mxGeometry x="55" y="110" width="10" height="730" as="geometry" />
+          <mxGeometry x="55" y="110" width="10" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="6GTGhAp1K_8xXgokYNfH-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6GTGhAp1K_8xXgokYNfH-27" target="YaiJavYs_ZO8TBzmR0Fi-24">
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.5;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6GTGhAp1K_8xXgokYNfH-27" target="YaiJavYs_ZO8TBzmR0Fi-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="680" as="sourcePoint" />
             <mxPoint x="-148" y="680" as="targetPoint" />
@@ -274,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2050" y="120" width="120" height="840" as="geometry" />
+          <mxGeometry x="2050" y="120" width="120" height="920" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-32" value="Notifica BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-31">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -286,10 +286,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-31">
-          <mxGeometry x="55" y="110" width="10" height="730" as="geometry" />
+          <mxGeometry x="55" y="110" width="10" height="810" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1840" y="120" width="120" height="840" as="geometry" />
+          <mxGeometry x="1840" y="120" width="120" height="930" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-36" value="Firma Certificada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-35">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -301,7 +301,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6GTGhAp1K_8xXgokYNfH-35">
-          <mxGeometry x="55" y="110" width="10" height="730" as="geometry" />
+          <mxGeometry x="55" y="110" width="10" height="820" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-42" value="Transaccion OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1330" y="690" width="120" height="30" as="geometry" />
@@ -326,6 +326,15 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-51" value="Transaccion OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.3;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6GTGhAp1K_8xXgokYNfH-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="961.5" as="sourcePoint" />
+            <mxPoint x="1887.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-53" value="WS envio de correo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="960" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
