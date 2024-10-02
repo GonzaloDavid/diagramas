@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-81" value="Servidor NotificaBI" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="740" width="180" height="90" as="geometry" />
+          <mxGeometry y="740" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-82" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qC0ujZglw4TgO-LQhZYu-81">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-89" value="&lt;b&gt;GIBS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="467" width="130" height="30" as="geometry" />
+          <mxGeometry x="25" y="497" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
