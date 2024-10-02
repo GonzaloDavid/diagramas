@@ -107,8 +107,11 @@
         <mxCell id="6GTGhAp1K_8xXgokYNfH-39" value="Registra envio / Reenvio&amp;nbsp; de correo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-18">
           <mxGeometry x="10" y="310" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-62" value="Cargar documentos en Onbase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-18">
+          <mxGeometry x="100" y="990" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-19" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="220" y="120" width="120" height="1050" as="geometry" />
+          <mxGeometry x="220" y="120" width="200" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="YaiJavYs_ZO8TBzmR0Fi-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -138,6 +141,9 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-1" value="RIB válido" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-19">
           <mxGeometry x="10" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-60" value="Generar Reporte RIB / Reporte de visita" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-19">
+          <mxGeometry x="40" y="950" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="230" width="10" height="940" as="geometry" />
@@ -354,7 +360,7 @@
         <mxCell id="6GTGhAp1K_8xXgokYNfH-57" value="Envio de email a asesor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1070" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6GTGhAp1K_8xXgokYNfH-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.3;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YaiJavYs_ZO8TBzmR0Fi-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1100" as="sourcePoint" />
             <mxPoint x="270" y="1100" as="targetPoint" />
@@ -362,6 +368,9 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-59" value="Ingresa a pantalla Reporte de visita" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6GTGhAp1K_8xXgokYNfH-60" target="YaiJavYs_ZO8TBzmR0Fi-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
