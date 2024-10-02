@@ -99,6 +99,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-18" source="6GTGhAp1K_8xXgokYNfH-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-39" value="Registra envio / Reenvio&amp;nbsp; de correo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="YaiJavYs_ZO8TBzmR0Fi-18">
           <mxGeometry x="10" y="310" width="130" height="60" as="geometry" />
         </mxCell>
