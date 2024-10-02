@@ -52,6 +52,12 @@
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-17" vertex="1">
           <mxGeometry x="55" y="110" width="10" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="460" y="120" width="200" height="540" as="geometry" />
         </mxCell>
@@ -192,6 +198,9 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-18" value="Abre Nueva plataforma desde Link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="405" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-20" value="WS obtención de información generado por BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
