@@ -194,6 +194,33 @@
         <mxCell id="qC0ujZglw4TgO-LQhZYu-89" value="&lt;b&gt;GIBS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-71" y="460" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-92" value="Reportes Jasper Report" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="740" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-93" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qC0ujZglw4TgO-LQhZYu-92">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-96" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="404" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC0ujZglw4TgO-LQhZYu-96" target="qC0ujZglw4TgO-LQhZYu-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552" y="674" as="sourcePoint" />
+            <mxPoint x="414" y="730" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="106" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
