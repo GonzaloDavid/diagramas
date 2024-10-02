@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1230" y="120" width="120" height="530" as="geometry" />
+          <mxGeometry x="1230" y="120" width="120" height="660" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-8" value="RIB Resful" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-13" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -20,7 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-13" vertex="1">
-          <mxGeometry x="50" y="110" width="10" height="380" as="geometry" />
+          <mxGeometry x="50" y="110" width="10" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="390" as="sourcePoint" />
+            <mxPoint x="-120" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-16" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1440" y="120" width="120" height="530" as="geometry" />
@@ -38,7 +44,7 @@
           <mxGeometry x="55" y="110" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1040" y="130" width="120" height="530" as="geometry" />
+          <mxGeometry x="1040" y="130" width="120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-7" value="Onboarding RIB: PN / PJ" style="rounded=1;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-17" vertex="1">
           <mxGeometry y="-10" width="120" height="60" as="geometry" />
@@ -50,12 +56,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="YaiJavYs_ZO8TBzmR0Fi-17" vertex="1">
-          <mxGeometry x="55" y="110" width="10" height="380" as="geometry" />
+          <mxGeometry x="55" y="110" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="310" as="sourcePoint" />
             <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="YaiJavYs_ZO8TBzmR0Fi-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="490" as="sourcePoint" />
+            <mxPoint x="240" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YaiJavYs_ZO8TBzmR0Fi-18" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -201,6 +213,12 @@
         </mxCell>
         <mxCell id="6GTGhAp1K_8xXgokYNfH-20" value="WS obtención de información generado por BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-22" value="Se autocompleta datos en pantalla" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GTGhAp1K_8xXgokYNfH-24" value="WS de guardado de información" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="630" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
