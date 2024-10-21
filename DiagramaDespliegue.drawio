@@ -28,10 +28,10 @@
         <mxCell id="TAVbQNcs_L2FOUL7V5Up-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;RIB Restful&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="600" y="190" width="170" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="TAVbQNcs_L2FOUL7V5Up-9" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="TAVbQNcs_L2FOUL7V5Up-9" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Windows Server&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="520" y="359" width="360" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="TAVbQNcs_L2FOUL7V5Up-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="TAVbQNcs_L2FOUL7V5Up-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;SQL SERVER&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="587.5" y="436" width="225" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TAVbQNcs_L2FOUL7V5Up-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=120;exitDy=0;exitPerimeter=0;entryX=0.48;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qrmg3Vs-Gsk_AwqV7CNu-4" target="TAVbQNcs_L2FOUL7V5Up-1" edge="1">
@@ -43,14 +43,20 @@
         <mxCell id="TAVbQNcs_L2FOUL7V5Up-14" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;https&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="435" y="126" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TAVbQNcs_L2FOUL7V5Up-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;exitX=-0.002;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TAVbQNcs_L2FOUL7V5Up-9" target="TAVbQNcs_L2FOUL7V5Up-1" edge="1">
+        <mxCell id="TAVbQNcs_L2FOUL7V5Up-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;" parent="1" target="TAVbQNcs_L2FOUL7V5Up-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="350" as="sourcePoint" />
+            <mxPoint x="695" y="359" as="sourcePoint" />
             <mxPoint x="510" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAVbQNcs_L2FOUL7V5Up-16" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;JPA&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="50" y="359" width="360" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="436" width="225" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
