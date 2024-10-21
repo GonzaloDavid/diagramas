@@ -52,12 +52,6 @@
         <mxCell id="TAVbQNcs_L2FOUL7V5Up-16" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;JPA&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gO8_6KHEhdCFIyb52LNH-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="50" y="359" width="360" height="211" as="geometry" />
-        </mxCell>
-        <mxCell id="gO8_6KHEhdCFIyb52LNH-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="436" width="225" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="gO8_6KHEhdCFIyb52LNH-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;" edge="1" parent="1" target="TAVbQNcs_L2FOUL7V5Up-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="360" as="sourcePoint" />
@@ -70,6 +64,18 @@
         </mxCell>
         <mxCell id="gO8_6KHEhdCFIyb52LNH-4" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;TCP&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-5" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="75" y="359" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-6" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="105" y="409" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-7" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;Jboss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="125" y="459" width="230" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8_6KHEhdCFIyb52LNH-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;br&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="155" y="509" width="170" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
