@@ -194,7 +194,7 @@
         <mxCell id="qC0ujZglw4TgO-LQhZYu-89" value="&lt;b&gt;GIBS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-71" y="460" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qC0ujZglw4TgO-LQhZYu-92" value="Reportes Jasper Report" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-92" value="Reporte Jasper Report" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="324" y="740" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-93" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="qC0ujZglw4TgO-LQhZYu-92" vertex="1">
