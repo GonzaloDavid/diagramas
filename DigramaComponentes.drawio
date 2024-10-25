@@ -23,7 +23,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC0ujZglw4TgO-LQhZYu-6" value="WS Calificación de cartera" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-6" value="Calificación de cartera" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="287" y="280" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="qC0ujZglw4TgO-LQhZYu-6" vertex="1">
@@ -83,7 +83,7 @@
             <mxPoint x="692" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC0ujZglw4TgO-LQhZYu-19" value="WS Firma Certificada" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-19" value="Firma Certificada" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-20" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="qC0ujZglw4TgO-LQhZYu-19" vertex="1">
@@ -91,7 +91,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC0ujZglw4TgO-LQhZYu-21" value="WS NotificaBI" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="qC0ujZglw4TgO-LQhZYu-21" value="Notificador BI" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="70" y="280" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC0ujZglw4TgO-LQhZYu-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="qC0ujZglw4TgO-LQhZYu-21" vertex="1">
