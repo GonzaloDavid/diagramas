@@ -25,9 +25,6 @@
         <mxCell id="B02b-nFAYQWw6pPugkNj-35" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="600" y="428.19000000000005" width="120.5" height="141.53" as="geometry" />
         </mxCell>
-        <mxCell id="B02b-nFAYQWw6pPugkNj-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B02b-nFAYQWw6pPugkNj-36" target="B02b-nFAYQWw6pPugkNj-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="B02b-nFAYQWw6pPugkNj-36" value="IBM -WAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="630.2499999999999" y="410.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>
