@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-1" id="au_IOSIpfsO1xo5c2g7p">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B02b-nFAYQWw6pPugkNj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="592.43" y="687.92" width="92.33" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7.3700000000000045" y="422.53" width="761.88" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="345.30999999999995" y="665.91" width="580.67" height="159.25" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="576.4399999999999" y="454.09000000000003" width="120.5" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="582.5699999999999" y="580.92" width="108.41" height="133.36" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-8" value="AS- 400 &lt;br&gt;(172.16.65.1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="572.66" y="598.68" width="131.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-9" value="Notificador&amp;nbsp;&lt;br&gt;172.16.65.100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="608.5899999999999" y="533.45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-12" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;glass=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="614.1399999999999" y="639.9999999999999" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-15" value="WS -&amp;nbsp;NotificaBI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="546.6899999999999" y="558" width="189.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenserver;rounded=0;glass=0;dashed=1;fillStyle=auto;fillColor=none;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="612.66" y="472.45000000000005" width="51.85" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-25" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenserver;rounded=0;glass=0;dashed=1;fillStyle=auto;fillColor=none;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="609.7099999999999" y="714.2800000000001" width="51.85" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-26" value="WS-Calificación de cartera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="546.6899999999999" y="775.28" width="189.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-27" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="590.52" y="790" width="92.33" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-28" value="WS- Firma electronica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="544.03" y="880" width="189.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-29" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenserver;rounded=0;glass=0;dashed=1;fillStyle=auto;fillColor=none;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="610.7599999999999" y="819" width="51.85" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-30" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="592.43" y="687.92" width="92.34" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-31" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="584.47" y="897.96" width="108.26" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-32" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;glass=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="615.2799999999999" y="929.7699999999998" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-33" value="SQL SERVER&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="570.85" y="991.7699999999998" width="131.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-34" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="464.45" width="58.65" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-35" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="369.99999999999994" y="428.19000000000005" width="120.5" height="141.53" as="geometry" />
+        </mxCell>
+        <mxCell id="B02b-nFAYQWw6pPugkNj-36" value="IBM -WAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="398.6499999999999" y="533.45" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
