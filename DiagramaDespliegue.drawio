@@ -104,7 +104,7 @@
             <mxPoint x="930" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-20" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-20" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Por definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="530" y="359" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Kw88h4AEPqxePYTO_mZ7-21" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Windows Server&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
