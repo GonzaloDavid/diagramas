@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-2" id="JUDbK4Ckv_WAd5AGM5Tw">
-    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,42 +68,6 @@
         <mxCell id="gO8_6KHEhdCFIyb52LNH-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;br&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="155" y="509" width="170" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Notifica BI&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="50" width="170" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Calificación de cartera&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="133" width="170" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Firma digital&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="216" width="170" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.035;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=120;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAVbQNcs_L2FOUL7V5Up-1" target="Kw88h4AEPqxePYTO_mZ7-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="160" as="sourcePoint" />
-            <mxPoint x="961.0799999999999" y="-40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="160" />
-              <mxPoint x="900" y="85" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.071;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Kw88h4AEPqxePYTO_mZ7-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="882" y="200" as="sourcePoint" />
-            <mxPoint x="960" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="200" />
-              <mxPoint x="950" y="200" />
-              <mxPoint x="950" y="166" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Kw88h4AEPqxePYTO_mZ7-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.053;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Kw88h4AEPqxePYTO_mZ7-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="240" as="sourcePoint" />
-            <mxPoint x="930" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Kw88h4AEPqxePYTO_mZ7-20" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Por definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="530" y="359" width="360" height="250" as="geometry" />
         </mxCell>
@@ -112,6 +76,33 @@
         </mxCell>
         <mxCell id="Kw88h4AEPqxePYTO_mZ7-22" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;text-wrap: wrap; font-family: Helvetica;&quot;&gt;SQL SERVER&lt;/b&gt;&lt;/div&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="610" y="509" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-24" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Por definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="950" y="-60" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-25" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Windows Server&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="980" y="-10" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-26" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;Notifica BI&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="90" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-27" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Por definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="950" y="210" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-28" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="980" y="260" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-29" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;Calificación de cartera&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="360" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-30" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Por definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="950" y="500" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-31" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;Definir&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="980" y="550" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kw88h4AEPqxePYTO_mZ7-32" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;Firma digital&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="650" width="170" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
