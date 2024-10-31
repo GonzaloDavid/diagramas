@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-2" id="d06dMkjNtAvJtXEPrBwd">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-6" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-6" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="360" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-7" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-7" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-8" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;IBM WebSphere&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-8" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;IBM WebSphere&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="570" y="140" width="230" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;EIBS 7.2&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="600" y="190" width="170" height="64" as="geometry" />
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;EIBS 7.2&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="580" y="190" width="190" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;exitX=0;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="uHMD5Oj5XYRMGibnQmpj-6" source="uHMD5Oj5XYRMGibnQmpj-18">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;exitX=0;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uHMD5Oj5XYRMGibnQmpj-18" target="uHMD5Oj5XYRMGibnQmpj-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="360" as="sourcePoint" />
             <mxPoint x="519" y="268" as="targetPoint" />
@@ -26,17 +26,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-17" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;TCP&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-17" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;TCP&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-18" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-18" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;IBM Power 9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="530" y="400" width="360" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-19" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;S.O v7.M5.R0&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-19" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;S.O v7.M5.R0&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="uHMD5Oj5XYRMGibnQmpj-20" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;br&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="uHMD5Oj5XYRMGibnQmpj-20" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;Core Banking&lt;br&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="610" y="550" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xpCTjeiLAD7EfV8CFEGS-1" value="Jasper Report" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="724" y="208" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
