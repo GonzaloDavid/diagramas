@@ -43,8 +43,8 @@
             <mxPoint x="510" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAVbQNcs_L2FOUL7V5Up-16" value="&amp;lt;&amp;lt;Protocol&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;JPA&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="TAVbQNcs_L2FOUL7V5Up-16" value="&lt;div&gt;&lt;b&gt;JPA&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gO8_6KHEhdCFIyb52LNH-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=250;entryDy=185;entryPerimeter=0;" parent="1" target="TAVbQNcs_L2FOUL7V5Up-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
