@@ -87,28 +87,28 @@
           <mxGeometry x="770" y="720" width="170" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-27" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1190" y="40" width="360" height="250" as="geometry" />
+          <mxGeometry x="1210" y="-170" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-28" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1220" y="90" width="280" height="190" as="geometry" />
+          <mxGeometry x="1240" y="-120" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-29" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;Jboss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1240" y="140" width="230" height="128" as="geometry" />
+          <mxGeometry x="1260" y="-70" width="230" height="128" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;LegacyEstablecimientos&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="190" width="170" height="64" as="geometry" />
+          <mxGeometry x="1290" y="-20" width="170" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-31" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1190" y="350" width="360" height="250" as="geometry" />
+          <mxGeometry x="1210" y="210" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-32" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1220" y="400" width="280" height="190" as="geometry" />
+          <mxGeometry x="1240" y="260" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-33" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;Jboss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1240" y="450" width="230" height="128" as="geometry" />
+          <mxGeometry x="1260" y="310" width="230" height="128" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;DigitalizaciónDocumentos&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="500" width="170" height="64" as="geometry" />
+          <mxGeometry x="1290" y="360" width="170" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_ABotIF_83BvI-7bSnan-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_ABotIF_83BvI-7bSnan-1" target="_ABotIF_83BvI-7bSnan-19">
           <mxGeometry relative="1" as="geometry" />
@@ -135,7 +135,31 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="300" />
-              <mxPoint x="1375" y="300" />
+              <mxPoint x="1140" y="300" />
+              <mxPoint x="1140" y="200" />
+              <mxPoint x="1395" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ABotIF_83BvI-7bSnan-43" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;div&gt;VMware ESXi 8.0.2&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1200" y="540" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABotIF_83BvI-7bSnan-44" value="&amp;lt;&amp;lt;Operating System&amp;gt;&amp;gt;&lt;div&gt;Rea Hat Enterprince Linux release 8.9&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1230" y="590" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABotIF_83BvI-7bSnan-45" value="&lt;div&gt;&amp;lt;&amp;lt;Application&amp;gt;&amp;gt;&lt;/div&gt;Jboss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1250" y="640" width="230" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABotIF_83BvI-7bSnan-46" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap: wrap; background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;font-family: Helvetica; text-wrap: wrap;&quot;&gt;&lt;div style=&quot;&quot;&gt;DocViewer&lt;/div&gt;&lt;/b&gt;" style="shape=component;align=center;spacingLeft=37;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="690" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABotIF_83BvI-7bSnan-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=360;entryPerimeter=0;" edge="1" parent="1" source="_ABotIF_83BvI-7bSnan-1" target="_ABotIF_83BvI-7bSnan-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="165" />
+              <mxPoint x="160" y="870" />
+              <mxPoint x="1160" y="870" />
+              <mxPoint x="1160" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
