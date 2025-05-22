@@ -7,8 +7,8 @@
         <mxCell id="kDI3Yf1xW3iRwXi5C575-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="872.43" y="514.4300000000001" width="92.33" height="141.53" as="geometry" />
         </mxCell>
-        <mxCell id="kDI3Yf1xW3iRwXi5C575-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="220" width="761.88" height="646" as="geometry" />
+        <mxCell id="kDI3Yf1xW3iRwXi5C575-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="750" height="500" as="geometry" />
         </mxCell>
         <mxCell id="kDI3Yf1xW3iRwXi5C575-3" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillStyle=auto;strokeColor=#6666FF;strokeWidth=1;fillColor=none;gradientColor=default;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="885.1199999999999" y="534.1099999999999" width="108.41" height="133.36" as="geometry" />
