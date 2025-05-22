@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kDI3Yf1xW3iRwXi5C575-18" value="JBOSS&lt;div&gt;Legacy-grafico&lt;/div&gt;&lt;div&gt;sistema-nacional-pagos-front&lt;/div&gt;&lt;div&gt;Legacy-establecimientos&lt;/div&gt;&lt;div&gt;DigitalizadorDocumentosWeb&lt;/div&gt;&lt;div&gt;consultaBancaria&lt;/div&gt;&lt;div&gt;ngSatelitesWeb&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="kDI3Yf1xW3iRwXi5C575-18" value="JBOSS&lt;div&gt;Legacy-grafico&lt;/div&gt;&lt;div&gt;sistema-nacional-pagos-front&lt;/div&gt;&lt;div&gt;Legacy-establecimientos&lt;/div&gt;&lt;div&gt;DigitalizadorDocumentosWeb&lt;/div&gt;&lt;div&gt;consultaBancaria&lt;/div&gt;&lt;div&gt;ngSatelitesWeb&lt;/div&gt;&lt;div&gt;Doc-Viewer&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="399.04" y="296.51" width="155.85" height="139.96" as="geometry" />
         </mxCell>
         <mxCell id="kDI3Yf1xW3iRwXi5C575-19" value="Pantalla Embebida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
