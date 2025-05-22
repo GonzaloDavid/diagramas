@@ -63,9 +63,6 @@
         <mxCell id="kDI3Yf1xW3iRwXi5C575-22" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;172.16.65.248&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="383.18000000000006" y="546.51" width="187.57" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kDI3Yf1xW3iRwXi5C575-23" value="Intranet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="343.28999999999985" y="224.7000000000001" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
